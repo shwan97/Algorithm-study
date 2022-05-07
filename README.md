@@ -14,4 +14,4 @@
 ## 🗓 Week Study
 |       | 📚| 1️⃣  | 2️⃣ | 3️⃣ | 4️⃣ | 5️⃣ | 6️⃣ | 7️⃣ | 8️⃣ |
 | :-------: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| **Week1** <br>(5.07 ~ 5.12)|Greedy|[백준:행렬](https://www.acmicpc.net/problem/1080)|
+| **Week1** <br>(5.07 ~ 5.12)|Greedy|[백준:행렬](https://www.acmicpc.net/problem/1080)|[백준:배](https://www.acmicpc.net/problem/1092)|[프로그래머스:구명보트](https://programmers.co.kr/learn/courses/30/lessons/42885)
