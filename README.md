@@ -20,4 +20,8 @@
 | **Week4** <br>(5.27 ~ 6.02)|DFS&BFS|[프로그래머스:여행 경로](https://programmers.co.kr/learn/courses/30/lessons/43164)|[백준:영역 구하기](https://www.acmicpc.net/problem/2583)|[프로그래머스:길 찾기 게임](https://programmers.co.kr/learn/courses/30/lessons/42892)|[백준:아기상어](https://www.acmicpc.net/problem/16236)
 | **Week5** <br>(6.03 ~ 6.09)|이분 탐색|[백준:중량제한](https://www.acmicpc.net/problem/1939)|[백준:두 용액](https://www.acmicpc.net/problem/2470)|[백준:부분수열의합2](https://www.acmicpc.net/problem/1208)|[백준:입국심사](https://www.acmicpc.net/problem/3079)
 | **Week6** <br>(6.10 ~ 6.16)| DP |[백준:뮤탈리스크](https://www.acmicpc.net/problem/12869)|[프로그래머스:등굣길](https://programmers.co.kr/learn/courses/30/lessons/42898)|[백준:합분해](https://www.acmicpc.net/problem/2225)|[백준:퇴사](https://www.acmicpc.net/problem/15486)|
+<<<<<<< HEAD
 | **Week7** <br>(6.17 ~ 6.23)| DP |[프로그래머스:정수 삼각형](https://programmers.co.kr/learn/courses/30/lessons/43105)|
+=======
+| **Week7** <br>(6.23 ~ 6.30)| DP |
+>>>>>>> af6e81dfff7ccc27a60d71e8db4b757e23446939
