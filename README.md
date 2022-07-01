@@ -21,4 +21,4 @@
 | **Week5** <br>(6.03 ~ 6.09)|이분 탐색|[백준:중량제한](https://www.acmicpc.net/problem/1939)|[백준:두 용액](https://www.acmicpc.net/problem/2470)|[백준:부분수열의합2](https://www.acmicpc.net/problem/1208)|[백준:입국심사](https://www.acmicpc.net/problem/3079)
 | **Week6** <br>(6.10 ~ 6.16)| DP |[백준:뮤탈리스크](https://www.acmicpc.net/problem/12869)|[프로그래머스:등굣길](https://programmers.co.kr/learn/courses/30/lessons/42898)|[백준:합분해](https://www.acmicpc.net/problem/2225)|[백준:퇴사](https://www.acmicpc.net/problem/15486)|
 | **Week7** <br>(6.17 ~ 6.23)| DP |[프로그래머스:정수 삼각형](https://programmers.co.kr/learn/courses/30/lessons/43105)|[백준:욕심쟁이 판다](https://www.acmicpc.net/problem/1937)|[백준:알약](https://www.acmicpc.net/problem/4811)|[프로그래머스:도둑질](https://programmers.co.kr/learn/courses/30/lessons/42897)
-| **Week8** <br>(6.31 ~ 7.07)| 구현 | 
+| **Week8** <br>(6.31 ~ 7.07)| 구현 | [백준:AC](https://www.acmicpc.net/problem/5430)|
