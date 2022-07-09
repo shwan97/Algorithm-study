@@ -22,3 +22,4 @@
 | **Week6** <br>(6.10 ~ 6.16)| DP |[백준:뮤탈리스크](https://www.acmicpc.net/problem/12869)|[프로그래머스:등굣길](https://programmers.co.kr/learn/courses/30/lessons/42898)|[백준:합분해](https://www.acmicpc.net/problem/2225)|[백준:퇴사](https://www.acmicpc.net/problem/15486)|
 | **Week7** <br>(6.17 ~ 6.23)| DP |[프로그래머스:정수 삼각형](https://programmers.co.kr/learn/courses/30/lessons/43105)|[백준:욕심쟁이 판다](https://www.acmicpc.net/problem/1937)|[백준:알약](https://www.acmicpc.net/problem/4811)|[프로그래머스:도둑질](https://programmers.co.kr/learn/courses/30/lessons/42897)
 | **Week8** <br>(6.31 ~ 7.07)| 구현 | [백준:AC](https://www.acmicpc.net/problem/5430)|[백준:연구소](https://www.acmicpc.net/problem/14502)|[백준:수족관1](https://www.acmicpc.net/problem/8982)|
+| **Week8** <br>(7.08 ~ 7.14)| 해시 | [백준:추월](https://www.acmicpc.net/problem/2002)|
