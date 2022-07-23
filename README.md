@@ -12,8 +12,8 @@
 ✏️ _스터디 전까지 4문제 풀어와주세요._
 
 ## 🗓 Week Study
-|       | 📚| 1️⃣ | 2️⃣ | 3️⃣ | 4️⃣ |
-| :-------: | :---: | :---: | :---: | :---: | :---: | 
+|       | 📚| 1️⃣ | 2️⃣ | 3️⃣ | 4️⃣ | 5️⃣ |
+| :-------: | :---: | :---: | :---: | :---: | :---: | :---: | 
 | **Week1** <br>(5.07 ~ 5.12)|Greedy|[백준:행렬](https://www.acmicpc.net/problem/1080)|[백준:배](https://www.acmicpc.net/problem/1092)|[프로그래머스:구명보트](https://programmers.co.kr/learn/courses/30/lessons/42885)|[백준:피보나치](https://www.acmicpc.net/problem/9009)
 | **Week2** <br>(5.13 ~ 5.19)|Greedy|[프로그래머스:큰 수 만들기](https://programmers.co.kr/learn/courses/30/lessons/42883)|[프로그래머스:단속카메라](https://programmers.co.kr/learn/courses/30/lessons/42884)|[백준:도서관](https://www.acmicpc.net/problem/1461)|[백준:행복 유치원](https://www.acmicpc.net/problem/13164)|
 | **Week3** <br>(5.20 ~ 5.26)|DFS&BFS|[백준:안전 영역](https://www.acmicpc.net/problem/2468)|[백준:쉬운 최단거리](https://www.acmicpc.net/problem/14940)| [프로그래머스:타겟 넘버](https://programmers.co.kr/learn/courses/30/lessons/43165)|[프로그래머스:네트워크](https://programmers.co.kr/learn/courses/30/lessons/43162)
@@ -24,3 +24,4 @@
 | **Week8** <br>(6.31 ~ 7.07)| 구현 | [백준:AC](https://www.acmicpc.net/problem/5430)|[백준:연구소](https://www.acmicpc.net/problem/14502)|[백준:수족관1](https://www.acmicpc.net/problem/8982)|
 | **Week9** <br>(7.08 ~ 7.14)| 해시 | [백준:추월](https://www.acmicpc.net/problem/2002)| [백준:베스트 앨범](https://school.programmers.co.kr/learn/courses/30/lessons/42579) | [프로그래머스:전화번호 목록](https://school.programmers.co.kr/learn/courses/30/lessons/42577)| [프로그래머스:위장](https://school.programmers.co.kr/learn/courses/30/lessons/42578)
 | **Week10** <br>(7.15 ~ 7.21)| 완전탐색 | [백준:단어 수학](https://www.acmicpc.net/problem/1339) | [백준:테트로미노](https://www.acmicpc.net/problem/14500) | [프로그래머스:자물쇠와열쇠](https://school.programmers.co.kr/learn/courses/30/lessons/60059) |[백준:암호 만들기](https://www.acmicpc.net/problem/1759)
+| **Week11** <br>(7.22 ~ 7.28)| 완전탐색 | [백준:Hello World!](https://www.acmicpc.net/problem/13140) | 
